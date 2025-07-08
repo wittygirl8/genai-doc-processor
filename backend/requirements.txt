@@ -5,3 +5,6 @@ openai
 python-multipart
 sentence_transformers
 faiss-cpu
+python-dotenv
+transformers
+torch
